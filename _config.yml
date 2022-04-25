@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 
-title: [orf: ordered random forests]
-description: [random forest estimation of the ordered choice models]
+title: orf - ordered random forests
+logo: https://raw.githubusercontent.com/fmuny/ORFpy/main/docs/images/orf-logo.png
+description: random forest estimation of the ordered choice models
