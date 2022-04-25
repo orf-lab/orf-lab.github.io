@@ -1,4 +1,6 @@
-## All resources for ordered random forests
+## Resources for ordered random forests
+
+The Ordered Forest flexibly estimates the conditional probabilities of models with ordered categorical outcomes (so-called ordered choice models). Additionally to common machine learning algorithms the Ordered Forest provides functions for estimating marginal effects and thus provides similar output as in standard econometric models for ordered choice.
 
 ### Scientific paper
 
