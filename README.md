@@ -4,7 +4,7 @@ The Ordered Forest flexibly estimates the conditional probabilities of models wi
 
 ### Scientific paper
 
-- [download the scientific paper from arxiv.org](https://arxiv.org/abs/1907.02436){:target="_blank"}
+- <a href="https://arxiv.org/abs/1907.02436" target="_blank">download the scientific paper from arxiv.org</a>
 
 ### R package
 
