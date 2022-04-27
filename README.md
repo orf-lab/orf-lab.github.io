@@ -8,13 +8,13 @@ The Ordered Forest flexibly estimates the conditional probabilities of models wi
 
 ### R package
 
-- [CRAN](https://cran.r-project.org/web/packages/orf/index.html){:target="_blank"}
-- [download documentation](https://cran.r-project.org/web/packages/orf/orf.pdf){:target="_blank"}
-- [vignette](https://cran.r-project.org/web/packages/orf/vignettes/orf_vignette.html){:target="_blank"}
-- [github page](https://github.com/orf-lab/orf-R){:target="_blank"}
+- <a href="https://cran.r-project.org/web/packages/orf/index.html" target="_blank">CRAN</a>
+- <a href="https://cran.r-project.org/web/packages/orf/orf.pdf" target="_blank">documentation</a>
+- <a href="https://cran.r-project.org/web/packages/orf/vignettes/orf_vignette.html" target="_blank">vignette</a>
+- <a href="https://github.com/orf-lab/orf-R" target="_blank">github page</a>
 
 ### python package
 
-- [PyPI](https://pypi.org/project/orf/){:target="_blank"}
-- [documentation](https://orf-lab.github.io/orf-py/){:target="_blank"}
-- [github page](https://github.com/orf-lab/orf-py){:target="_blank"}
+- <a href="https://pypi.org/project/orf/" target="_blank">PyPI</a>
+- <a href="https://orf-lab.github.io/orf-py/" target="_blank">documentation</a>
+- <a href="https://github.com/orf-lab/orf-py" target="_blank">github page</a>
