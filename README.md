@@ -16,5 +16,5 @@ The Ordered Forest flexibly estimates the conditional probabilities of models wi
 ### python package
 
 - <a href="https://pypi.org/project/orf/" target="_blank">PyPI</a>
-- <a href="https://orf-lab.github.io/orf-py/" target="_blank">documentation</a>
+- <a href="https://orf-lab.github.io/orf-py/">documentation</a>
 - <a href="https://github.com/orf-lab/orf-py" target="_blank">github page</a>
