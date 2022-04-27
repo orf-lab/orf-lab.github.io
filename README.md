@@ -4,17 +4,17 @@ The Ordered Forest flexibly estimates the conditional probabilities of models wi
 
 ### Scientific paper
 
-- [download the scientific paper from arxiv.org](https://arxiv.org/abs/1907.02436)
+- [download the scientific paper from arxiv.org](https://arxiv.org/abs/1907.02436){:target="_blank"}
 
 ### R package
 
-- [CRAN](https://cran.r-project.org/web/packages/orf/index.html)
-- [download documentation](https://cran.r-project.org/web/packages/orf/orf.pdf)
-- [vignette](https://cran.r-project.org/web/packages/orf/vignettes/orf_vignette.html)
-- [github page](https://github.com/orf-lab/orf-R)
+- [CRAN](https://cran.r-project.org/web/packages/orf/index.html){:target="_blank"}
+- [download documentation](https://cran.r-project.org/web/packages/orf/orf.pdf){:target="_blank"}
+- [vignette](https://cran.r-project.org/web/packages/orf/vignettes/orf_vignette.html){:target="_blank"}
+- [github page](https://github.com/orf-lab/orf-R){:target="_blank"}
 
 ### python package
 
-- PyPI
-- documentation
-- github page
+- [PyPI](https://pypi.org/project/orf/){:target="_blank"}
+- [documentation](https://orf-lab.github.io/orf-py/){:target="_blank"}
+- [github page](https://github.com/orf-lab/orf-py){:target="_blank"}
